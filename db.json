@@ -4,13 +4,28 @@
       "car": [
         {
           "id": 1, /* substitution for carId */
-          "ambassadorId": 89,
-          "createdAt": "2020-12-30 14:46:00"
-        },
-        {
-          "id": 2,
-          "ambassadorId": 89,
-          "createdAt": "2021-01-01 14:46:00"
+          "carChecks": [
+            {
+              "checkId": 12,
+              "ambassadorId": 89, 
+              "createdAt": "2020-12-30 14:46:00" 
+            },
+            {
+              "checkId": 13, 
+              "ambassadorId": 89, 
+              "createdAt": "2021-01-01 14:46:00"
+            },
+            {
+              "checkId": 11, 
+              "ambassadorId": 89, 
+              "createdAt": "2021-01-02 14:46:00"
+            },
+            {
+              "checkId": 14, 
+              "ambassadorId": 89, 
+              "createdAt": "2021-01-03 14:46:00"
+            }
+          ]
         }
       ]
     }
