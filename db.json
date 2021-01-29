@@ -1,0 +1,18 @@
+{
+  admin: {
+    car-check: {
+      car: [
+        {
+          id: 1, //substitution for carId
+          ambassadorId: 89,
+          createdAt: "2020-12-30 14:46:00"
+        },
+        {
+          id: 2, //substitution for carId
+          ambassadorId: 89,
+          createdAt: "2021-01-01 14:46:00"
+        }
+      ]
+    }
+  }
+}
