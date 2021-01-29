@@ -3,7 +3,7 @@
     "car-check": {
       "car": [
         {
-          "id": 1, /* substitution for carId */
+          "id": 1,
           "carChecks": [
             {
               "checkId": 12,
