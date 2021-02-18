@@ -50,5 +50,42 @@
         }
       ]
     }
+  ],
+  "car-check": [
+    {
+      "id": 22,
+      "carId": 1,
+      "createdAt": "2020-12-30 14:46:00",
+      "ambassadorId": 89,
+      "defects": [ /* ID nově zaznamenaných defektů */
+        1,
+        2
+      ],
+      "technicalStatus": {
+        "liquids": { 
+          "coolant": "aboveMin",
+          "motorOil": "refilled",
+          "windshieldWasherLiquid": "filled" 
+        },
+        "odometer": 5324, 
+        "lightsFunctionality": {
+          "front": {
+            "highBeams": true, 
+            "lowBeams": true,
+            "sideLights": true,
+            "fogLights": true
+          },
+          "back": {
+            "fogLights": true,
+            "brakeLights": true, 
+            "tailLights": true, 
+            "dimmers": true 
+          }
+        },
+        "warnings": "nic nebliká",
+        "otherDefects": "",
+        "capabilityToDrive": true 
+        }
+    }
   ]
 }
