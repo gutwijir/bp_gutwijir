@@ -128,7 +128,7 @@
   ],
   "car-equipment": [
     {
-      "carId": 22,
+      "id": 22,
       "equipment": [
         {
           "id": 1, 
