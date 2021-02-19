@@ -125,5 +125,112 @@
       ],
       "description": "Levé světlo proražené"
     }
+  ],
+  "car-equipment": [
+    {
+      "carId": 22,
+      "equipment": [
+        {
+          "id": 1, 
+          "name": "medicalKit",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 2, 
+          "name": "lightBulbs",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 3, 
+          "name": "adhesiveSet",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 4, 
+          "name": "warningTriangle",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 5, 
+          "name": "reflectiveVest",
+          "isOkay": true,
+          "note": "..."
+        },
+        {
+          "id": 6, 
+          "name": "chargingCables",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 7, 
+          "name": "phoneHolder",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 8, 
+          "name": "cable230V",
+          "isOkay": true,
+          "note": ""
+        }
+      ],
+      "chips": [
+        {
+          "id": 1,
+          "name": "PRE",
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 2,
+          "name": "CEZ",
+          "isOkay": true,
+          "note": ""
+        }
+      ],
+      "cardsAndDocuments": [
+        {
+          "id": 1, 
+          "name": "CCS", 
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 2, 
+          "name": "VSE", 
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 3, 
+          "name": "SkodaMBCard", 
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 4, 
+          "name": "greenCard", 
+          "isOkay": true,
+          "note": ""
+        },
+        {
+          "id": 5, 
+          "name": "MOT",
+          "isOkay": true,
+          "note": "Zezadu škráblý"
+        },
+        {
+          "id": 7, 
+          "name": "licencePlate", 
+          "isOkay": true,
+          "note": "Maličko prohnutá na pravé straně"
+        }
+      ]
+    }
   ]
 }
