@@ -123,7 +123,25 @@
         "https://uniqway-assets.s3-eu-west-1.amazonaws.com/car_defect_sample.jpeg",
         "https://uniqway-assets.s3-eu-west-1.amazonaws.com/car_defect_sample.jpeg"
       ],
-      "description": "Levé světlo proražené"
+      "description": "Pravé světlo proražené"
+    },
+    {
+      "id": 3,
+      "carId": 1,
+      "createdAt": "2020-01-01 14:58:34",
+      "repairedAt": null,
+      "location": [
+        "exterior",
+        "bodyworkAndLights",
+        "frontSide",
+        "lights",
+        "left"
+      ],
+      "photos": [
+        "https://uniqway-assets.s3-eu-west-1.amazonaws.com/car_defect_sample.jpeg",
+        "https://uniqway-assets.s3-eu-west-1.amazonaws.com/car_defect_sample.jpeg"
+      ],
+      "description": "Levé světlo taky proražené"
     }
   ],
   "car-equipment": [
