@@ -201,8 +201,8 @@
         {
           "id": 1,
           "name": "PRE",
-          "isOkay": true,
-          "note": ""
+          "isOkay": false,
+          "note": "Nefunkční"
         },
         {
           "id": 2,
