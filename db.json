@@ -56,7 +56,7 @@
       "id": 22,
       "type": "normal",
       "carId": 1,
-      "isFinished": true,
+      "isFinished": false,
       "createdAt": "2020-12-30 14:46:00",
       "ambassadorId": 89,
       "defects": [
