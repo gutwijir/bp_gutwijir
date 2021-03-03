@@ -253,7 +253,7 @@
       ]
     }
   ],
-  defectLocationTree: {
+  "defectLocationTree": {
     "name": "defectLocationTree",
     "data": [
         {
