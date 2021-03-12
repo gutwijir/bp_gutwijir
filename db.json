@@ -296,7 +296,7 @@
     "ambassadorId": 89,
     "createdAt": "2020-12-30 14:46:00", 
     "type": "tireExchange",
-    "newTires": "summer", 
+    "newTires": "summerTires", 
     "oldTirePatternDepth": 4.8, 
     "tireBrand": "Hankook",
     "wheelType": "steel" 
@@ -306,7 +306,7 @@
     "ambassadorId": 89, 
     "createdAt": "2020-12-30 14:47:00",
     "type": "tireExchange",
-    "newTires": "winter", 
+    "newTires": "winterTires", 
     "oldTirePatternDepth": 4.8, 
     "tireBrand": "Michelin",
     "wheelType": "alu" 
@@ -316,7 +316,7 @@
     "ambassadorId": 88, 
     "createdAt": "2020-12-30 14:48:00",
     "type": "tireExchange",
-    "newTires": "summer", 
+    "newTires": "summerTires", 
     "oldTirePatternDepth": 4.8, 
     "tireBrand": "Hankook",
     "wheelType": "steel"
