@@ -150,7 +150,7 @@
       "id": 2,
       "carId": 1,
       "createdAt": "2020-01-01 14:58:34",
-      "repairedAt": null,
+      "repairedAt": "2020-01-01 14:58:35",
       "location": [
         "exterior",
         "bodyworkAndLights",
