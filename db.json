@@ -289,5 +289,31 @@
         }
       ]
     }
+  ],
+  "tire-exchanges": [
+    {
+    "carId": 1,
+    "type": "tireExchange",
+    "newTires": "summer", 
+    "oldTirePatternDepth": 4.8, 
+    "tireBrand": "Hankook",
+    "wheelType": "steel" 
+    },
+    {
+    "carId": 1,
+    "type": "tireExchange",
+    "newTires": "winter", 
+    "oldTirePatternDepth": 4.8, 
+    "tireBrand": "Michelin",
+    "wheelType": "alu" 
+    },
+    {
+    "carId": 1,
+    "type": "tireExchange",
+    "newTires": "summer", 
+    "oldTirePatternDepth": 4.8, 
+    "tireBrand": "Hankook",
+    "wheelType": "steel"
+    }
   ]
 }
