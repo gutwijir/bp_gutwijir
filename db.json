@@ -293,6 +293,8 @@
   "tire-exchanges": [
     {
     "carId": 1,
+    "ambassadorId": 89,
+    "createdAt": "2020-12-30 14:46:00", 
     "type": "tireExchange",
     "newTires": "summer", 
     "oldTirePatternDepth": 4.8, 
@@ -301,6 +303,8 @@
     },
     {
     "carId": 1,
+    "ambassadorId": 89, 
+    "createdAt": "2020-12-30 14:47:00",
     "type": "tireExchange",
     "newTires": "winter", 
     "oldTirePatternDepth": 4.8, 
@@ -309,6 +313,8 @@
     },
     {
     "carId": 1,
+    "ambassadorId": 88, 
+    "createdAt": "2020-12-30 14:48:00",
     "type": "tireExchange",
     "newTires": "summer", 
     "oldTirePatternDepth": 4.8, 
