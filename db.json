@@ -297,9 +297,20 @@
     "createdAt": "2020-12-30 14:46:00", 
     "type": "tireExchange",
     "newTires": "summerTires", 
-    "oldTirePatternDepth": 4.8, 
-    "tireBrand": "Hankook",
-    "wheelType": "steel" 
+    "oldTirePatternDepth": {
+      "frontTires": {
+        "rightTire": 4.7,
+        "leftTire": 4.9
+      },
+      "backTires": {
+        "rightTire": 4.8,
+        "leftTire": 4.6
+      }
+    },
+    "oldtireBrand": "Hankook",
+    "newTireBrand": "Michelin",
+    "oldWheelType": "steel",
+    "newWheelType": "steel"
     },
     {
     "carId": 1,
@@ -307,9 +318,20 @@
     "createdAt": "2020-12-30 14:47:00",
     "type": "tireExchange",
     "newTires": "winterTires", 
-    "oldTirePatternDepth": 4.8, 
-    "tireBrand": "Michelin",
-    "wheelType": "alu" 
+    "oldTirePatternDepth": {
+      "frontTires": {
+        "rightTire": 4.7,
+        "leftTire": 4.9
+      },
+      "backTires": {
+        "rightTire": 4.8,
+        "leftTire": 4.6
+      }
+    },
+    "oldTireBrand": "Michelin",
+    "newTireBrand": "Michelin",
+    "oldWheelType": "alu",
+    "newWheelType": "steel",
     },
     {
     "carId": 1,
@@ -317,9 +339,20 @@
     "createdAt": "2020-12-30 14:48:00",
     "type": "tireExchange",
     "newTires": "summerTires", 
-    "oldTirePatternDepth": 4.8, 
-    "tireBrand": "Hankook",
-    "wheelType": "steel"
+    "oldTirePatternDepth": {
+      "frontTires": {
+        "rightTire": 4.7,
+        "leftTire": 4.9
+      },
+      "backTires": {
+        "rightTire": 4.8,
+        "leftTire": 4.6
+      }
+    },
+    "oldtireBrand": "Hankook",
+    "newTireBrand": "Michelin",
+    "oldWheelType": "steel",
+    "newWheelType": "alu",
     }
   ]
 }
