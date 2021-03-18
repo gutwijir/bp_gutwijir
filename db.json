@@ -87,7 +87,8 @@
         "warnings": "nic nebliká",
         "otherDefects": "",
         "capabilityToDrive": true 
-        }
+        },
+      "cleaningDone": true
     },
     {
       "id": 23,
@@ -124,7 +125,8 @@
         "warnings": "nic nebliká",
         "otherDefects": "",
         "capabilityToDrive": true 
-        }
+        },
+      "cleaningDone": false
     }
   ],
   "car-defects": [
