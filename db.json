@@ -126,7 +126,7 @@
         "warnings": "nic nebliká",
         "otherDefects": "",
         "capabilityToDrive": true 
-        },
+        }
     }
   ],
   "car-defects": [
