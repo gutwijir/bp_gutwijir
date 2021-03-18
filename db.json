@@ -309,7 +309,7 @@
       },
       "tireBrand": {
         "oldtireBrand": "Hankook",
-        "newTireBrand": "Michelin",
+        "newTireBrand": "Michelin"
       },
       "wheelType": {
         "oldWheelType": "steel",
@@ -332,10 +332,14 @@
           "leftTire": 4.6
         }
       },
-      "oldTireBrand": "Michelin",
-      "newTireBrand": "Michelin",
-      "oldWheelType": "alu",
-      "newWheelType": "steel",
+      "tireBrand": {
+        "oldtireBrand": "Michelin",
+        "newTireBrand": "Michelin"
+      },
+      "wheelType": {
+        "oldWheelType": "alu",
+        "newWheelType": "steel"        
+      }
     },
     {
       "carId": 1,
@@ -353,10 +357,14 @@
           "leftTire": 4.6
         }
       },
-      "oldtireBrand": "Hankook",
-      "newTireBrand": "Michelin",
-      "oldWheelType": "steel",
-      "newWheelType": "alu",
+      "tireBrand": {
+        "oldtireBrand": "Hankook",
+        "newTireBrand": "Michelin"
+      },
+      "wheelType": {
+        "oldWheelType": "steel",
+        "newWheelType": "alu"        
+      }
     }
   ]
 }
