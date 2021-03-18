@@ -84,11 +84,11 @@
             "dimmers": true 
           }
         },
+        "cleaningDone": true,
         "warnings": "nic nebliká",
         "otherDefects": "",
         "capabilityToDrive": true 
         },
-      "cleaningDone": true
     },
     {
       "id": 23,
@@ -122,11 +122,11 @@
             "dimmers": true 
           }
         },
+        "cleaningDone": false,
         "warnings": "nic nebliká",
         "otherDefects": "",
         "capabilityToDrive": true 
         },
-      "cleaningDone": false
     }
   ],
   "car-defects": [
