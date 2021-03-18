@@ -308,7 +308,7 @@
         }
       },
       "tireBrand": {
-        "oldtireBrand": "Hankook",
+        "oldTireBrand": "Hankook",
         "newTireBrand": "Michelin"
       },
       "wheelType": {
@@ -333,7 +333,7 @@
         }
       },
       "tireBrand": {
-        "oldtireBrand": "Michelin",
+        "oldTireBrand": "Michelin",
         "newTireBrand": "Michelin"
       },
       "wheelType": {
@@ -358,7 +358,7 @@
         }
       },
       "tireBrand": {
-        "oldtireBrand": "Hankook",
+        "oldTireBrand": "Hankook",
         "newTireBrand": "Michelin"
       },
       "wheelType": {
