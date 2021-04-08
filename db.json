@@ -30,22 +30,22 @@
       "carChecks": [
         {
           "checkId": 24,
-          "ambassadorId": 89, 
+          "ambassadorId": 2846, 
           "createdAt": "2020-12-30 14:46:00" 
         },
         {
           "checkId": 23, 
-          "ambassadorId": 88, 
+          "ambassadorId": 1549, 
           "createdAt": "2021-01-01 14:50:00"
         },
         {
           "checkId": 21, 
-          "ambassadorId": 90, 
+          "ambassadorId": 1549, 
           "createdAt": "2021-01-02 14:46:00"
         },
         {
           "checkId": 22, 
-          "ambassadorId": 89, 
+          "ambassadorId": 2846, 
           "createdAt": "2021-01-03 14:46:00"
         }
       ]
