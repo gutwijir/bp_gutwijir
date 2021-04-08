@@ -72,16 +72,19 @@
         "odometer": 5324, 
         "lightsFunctionality": {
           "front": {
-            "highBeams": true, 
+            "highBeams": true,
             "lowBeams": true,
-            "sideLights": true,
+            "parkingLights": true,
+            "indicators": true,
+            "daytimeRunningLights": true,
             "fogLights": true
           },
           "back": {
             "fogLights": true,
+            "indicators": true,
             "brakeLights": true, 
-            "tailLights": true, 
-            "dimmers": true 
+            "tailLights": true,
+            "reversingLights": true 
           }
         },
         "cleaningDone": {
@@ -113,16 +116,19 @@
         "odometer": 5324, 
         "lightsFunctionality": {
           "front": {
-            "highBeams": true, 
+            "highBeams": true,
             "lowBeams": true,
-            "sideLights": true,
+            "parkingLights": true,
+            "indicators": true,
+            "daytimeRunningLights": true,
             "fogLights": true
           },
           "back": {
             "fogLights": true,
+            "indicators": true,
             "brakeLights": true, 
-            "tailLights": true, 
-            "dimmers": true 
+            "tailLights": true,
+            "reversingLights": true
           }
         },
         "cleaningDone": {
