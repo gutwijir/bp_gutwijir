@@ -147,6 +147,7 @@
       "carId": 1,
       "createdAt": "2020-01-01 14:58:34",
       "repairedAt": null,
+      "importance": "light",
       "location": [
         "exterior",
         "bodyworkAndLights",
@@ -165,6 +166,7 @@
       "carId": 1,
       "createdAt": "2020-01-01 14:58:34",
       "repairedAt": null,
+      "importance": "medium",
       "location": [
         "exterior",
         "bodyworkAndLights",
@@ -183,6 +185,7 @@
       "carId": 1,
       "createdAt": "2020-01-01 14:58:34",
       "repairedAt": null,
+      "importance": "light",
       "location": [
         "exterior",
         "bodyworkAndLights",
