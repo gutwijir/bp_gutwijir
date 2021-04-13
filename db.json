@@ -65,7 +65,8 @@
       ],
       "technicalStatus": {
         "liquids": { 
-          "coolant": "aboveMin",
+          "coolant": "refilled",
+          "coolantType": "D,G12",
           "motorOil": "refilled",
           "motorOilType": "20W/50",
           "windshieldWasherLiquid": "refilled",
