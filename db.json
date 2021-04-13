@@ -67,7 +67,8 @@
         "liquids": { 
           "coolant": "aboveMin",
           "motorOil": "refilled",
-          "windshieldWasherLiquid": "filled" 
+          "windshieldWasherLiquid": "refilled",
+          "windshieldWasherLiquidType": "summer",
         },
         "odometer": 5324, 
         "lightsFunctionality": {
@@ -111,7 +112,7 @@
         "liquids": { 
           "coolant": "aboveMin",
           "motorOil": "refilled",
-          "windshieldWasherLiquid": "filled" 
+          "windshieldWasherLiquid": "aboveMin" 
         },
         "odometer": 5324, 
         "lightsFunctionality": {
