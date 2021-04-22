@@ -154,9 +154,8 @@
       "location": [
         "exterior",
         "bodyworkAndLights",
-        "frontSide",
-        "lights",
-        "rightLight"
+        "backSide",
+        "bumper"
       ],
       "photos": [
         "https://uniqway-assets.s3-eu-west-1.amazonaws.com/car_defect_sample.jpeg",
